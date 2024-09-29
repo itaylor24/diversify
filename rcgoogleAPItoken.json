@@ -1,0 +1,35 @@
+[33mcommit f37f1c7c488b81cab8d7ae1a78d5145a79c8907f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <Administrator@A-Laptop.mit.edu>
+Date:   Sun Sep 15 00:03:58 2024 -0400
+
+    button does nothing
+
+[33mcommit 9fc197e5ccd9da127d840a67fcb1f60a4da6693c[m
+Author: unknown <Administrator@A-Laptop.mit.edu>
+Date:   Sat Sep 14 23:19:31 2024 -0400
+
+    Testing fixing npm
+
+[33mcommit db7e9a553cc293cefdf0b1657193db036b1b0887[m
+Author: Ty Todd <swagginty@gmail.com>
+Date:   Sat Sep 14 20:06:32 2024 -0400
+
+    new api route
+
+[33mcommit 0d603fab8391e8f9ce2160a99f2f8eec57bd7aa6[m[33m ([m[1;32mdeltest[m[33m)[m
+Author: Ty Todd <swagginty@gmail.com>
+Date:   Sat Sep 14 20:01:58 2024 -0400
+
+    nlux fetch
+
+[33mcommit 37ff5e0e3ecfab91391b394632a278e59b729275[m
+Author: unknown <Administrator@A-Laptop.mit.edu>
+Date:   Sat Sep 14 19:47:41 2024 -0400
+
+    clerk auth works
+
+[33mcommit fdfff78923436335c2330993489090c48e04fbac[m
+Author: Ty Todd <swagginty@gmail.com>
+Date:   Sat Sep 14 19:24:40 2024 -0400
+
+    first commit
